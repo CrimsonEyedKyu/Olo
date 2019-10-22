@@ -1,2 +1,2 @@
-# Olo
-Aleksandra Jóźwik 5GGS
+# wsti
+wsti
